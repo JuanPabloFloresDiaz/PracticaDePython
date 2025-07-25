@@ -33,14 +33,36 @@ es_dui_valido = Validaciones.validate_dui("12345678-9")
 
 ### Ideas para prácticas
 
-1. **Sistema de registro de estudiantes**
-2. **Calculadora con validaciones**
-3. **Registro de empleados**
-4. **Sistema de inventario**
-5. **Agenda telefónica**
-6. **Control de notas**
-7. **Sistema de ventas**
-8. **Registro de usuarios**
+1. **Sistema de registro de estudiantes** ✅ (Ejercicio1.py - suma básica)
+2. **Lectura de archivos** ✅ (Ejercicio2.py - lector de README)
+3. **Operaciones con matrices/NumPy** ✅ (Ejercicio3.py - álgebra lineal)
+4. **Calculadora con validaciones**
+5. **Registro de empleados**
+6. **Sistema de inventario**
+7. **Agenda telefónica**
+8. **Control de notas**
+9. **Sistema de ventas**
+10. **Registro de usuarios**
+
+### Ejercicios completados
+
+#### Ejercicio1.py - Suma de dos números
+- Uso básico de `Teclado.read_integer()`
+- Manejo de errores
+- Validaciones automáticas
+
+#### Ejercicio2.py - Lector de archivos
+- Menú interactivo con validaciones
+- Lectura de archivos con manejo de errores
+- Navegación por diferentes README del proyecto
+
+#### Ejercicio3.py - Operaciones con matrices usando NumPy
+- **Usa NumPy completamente**: Operaciones optimizadas con arrays reales
+- **Vectores y matrices**: Soporte para estructuras 1D y 2D
+- **8 tipos de operaciones**: Suma, resta, multiplicación, producto punto, matmul, estadísticas, matemáticas avanzadas
+- **Funciones avanzadas**: Media, mediana, desviación estándar, funciones trigonométricas
+- **Información detallada**: Shape, dimensiones, tipos de datos, memoria
+- **Menú interactivo completo**: Navegación intuitiva con validaciones
 
 ## Estructura recomendada
 
